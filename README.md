@@ -4,15 +4,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dark7538&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" align="center" height="150" alt="stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dark7538&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" align="center" height="150" alt="languajes graph"/>
 </div>
- <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=dark7538&theme=react&hide_border=false&count_private=tru&border_radius=25&stroke=78ECFD&fire=78ECFD&ring=AC7BF9&currStreakLabel=78ECFD&currStreakNum=E8E8E8&sideNums=78ECFD&dates=FDFDFD&sideLabels=78ECFD&background=26272D&bg_color=26272D&count_private=true&border=AC7BF9&locale=es&exclude_days=Sun%2CSat" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=dark7538&count_private=true&show_icons=true&theme=react&border_color=60B2BF&hide_border=false&border_radius=25&title_color=78ECFD&icon_color=AC7BF9&bg_color=26272D&include_all_commits=true" />
-    </a>
 ###
 <p align="left">Skills</p>
 ###
+
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /> 
 <img width="12" />
