@@ -5,10 +5,17 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dark7538&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dark7538&layout=compact&langs_count=6&theme=radical&hide_border=true" height="150" alt="languages"/>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 <br/>
 
 <h3 align="center">🛠️ Tech Stack</h3>
